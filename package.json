@@ -14,11 +14,11 @@
 		"email": "contacto@jacobpalomo.com",
 		"url": "https://jacobpalomo.com"
 	},
-	"icon": "./images/icon.png",
+	"icon": "images/icon.png",
 	"version": "0.2.1",
 	"publisher": "JacobPalomo",
 	"repository": "https://github.com/JacobPalomo/jp-vscode-theme",
-	"readme": "./README.md",
+	"readme": "README.md",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
@@ -30,12 +30,12 @@
 			{
 				"label": "Jacob Palomo - Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/dark-color-theme.json"
+				"path": "themes/dark-color-theme.json"
 			},
 			{
 				"label": "Jacob Palomo - Light",
 				"uiTheme": "vs",
-				"path": "./themes/light-color-theme.json"
+				"path": "themes/light-color-theme.json"
 			}
 		]
 	}
