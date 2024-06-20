@@ -15,7 +15,7 @@
 		"url": "https://jacobpalomo.com"
 	},
 	"icon": "images/icon.png",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"publisher": "JacobPalomo",
 	"repository": "https://github.com/JacobPalomo/jp-vscode-theme",
 	"readme": "README.md",
