@@ -1,16 +1,45 @@
-# jp-theme README
+# Jacob Palomo Theme for VSCode
 
-## Working with Markdown
+Esta extensión incluye el tema claro y oscuro que utilizo para trabajar día a día.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Instalación
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Esta extensión se puede instalar a través de la barra lateral de extensiones buscando "gruvbox-themes" o presionando Apertura rápida (⌘+P) y ejecutándo `ext install gruvbox-themesdesde`.
 
-## For more information
+## Capturas de pantalla
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Light theme
 
-**Enjoy!**
+#### HTML / CSS
+
+![html-css-light](https://github.com/JacobPalomo/jp-vscode-theme/images/html-light-theme.png)
+
+#### JavaScript
+
+![javascript-light](https://github.com/JacobPalomo/jp-vscode-theme/images/javascript-light-theme.png)
+
+#### Python
+
+![python-light](https://github.com/JacobPalomo/jp-vscode-theme/images/python-light-theme.png)
+
+#### JSON
+
+![json-light](https://github.com/JacobPalomo/jp-vscode-theme/images/json-light-theme.png)
+
+### Dark theme
+
+#### HTML / CSS
+
+![html-css-dark](https://github.com/JacobPalomo/jp-vscode-theme/images/html-dark-theme.png)
+
+#### JavaScript
+
+![javascript-dark](https://github.com/JacobPalomo/jp-vscode-theme/images/javascript-dark-theme.png)
+
+#### Python
+
+![python-dark](https://github.com/JacobPalomo/jp-vscode-theme/images/python-dark-theme.png)
+
+#### JSON
+
+![json-dark](https://github.com/JacobPalomo/jp-vscode-theme/images/json-dark-theme.png)
