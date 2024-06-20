@@ -1,8 +1,8 @@
 {
-	"name": "jp-theme",
-	"displayName": "jp-theme",
+	"name": "jacobpalomo-theme",
+	"displayName": "jacobpalomo-theme",
 	"description": "Tema para VSCode de Jacob Palomo",
-	"version": "0.0.1",
+	"version": "0.2.0",
 	"publisher": "JacobPalomo",
 	"repository": "https://github.com/JacobPalomo/jp-vscode-theme",
 	"engines": {
@@ -14,9 +14,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "JP Theme",
+				"label": "Jacob Palomo - Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/JP Theme-color-theme.json"
+				"path": "./themes/dark-color-theme.json"
+			},
+			{
+				"label": "Jacob Palomo - Light",
+				"uiTheme": "vs",
+				"path": "./themes/light-color-theme.json"
 			}
 		]
 	}
